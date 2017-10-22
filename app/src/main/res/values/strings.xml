@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AgendaBD</string>
+    <string name="tarefa">Nome Tarefa</string>
+    <string name="desc">Descricao</string>
+    <string name="data">Data</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
+    <string name="voltar">Voltar</string>
+</resources>
